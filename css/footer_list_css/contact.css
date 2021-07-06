@@ -1,0 +1,13 @@
+.contacts_container{
+    text-align: center;
+}
+
+.contact_block span.line{
+    margin: 0;
+}
+
+.messege_container button{
+    margin-top: 10px;
+    background-color: tomato;
+    color: white;
+}

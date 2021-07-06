@@ -1,0 +1,172 @@
+.message_container{
+    width: 250px;
+    display: none;
+    bottom: 0;
+    z-index: 100;
+    right: 0;
+    margin-bottom: 20px;
+    margin-left: 10px;
+    position: fixed;
+}
+
+.message_box{
+    background-color: white;
+    border-radius: 6px;
+}
+
+.message_container .header_line_message{
+    background-color: rgba(58, 74, 161, 0.78);
+    margin-bottom: 10px;
+    border-radius: 6px;
+}
+
+#photo_peaple_online img.online_peaple{
+    border-radius: 25px;
+    height: 40px;
+    margin-left: 10px;
+    margin-top: 9px;
+}
+
+.message_send input#message{
+    margin-left: 5px;
+    margin-bottom: 10px;
+}
+
+.header_line_message p{
+    color: white;
+    margin-left: 10px;
+}
+
+.header_line_message span{
+    color: lightgray;
+    margin-bottom: 10px;
+}
+
+.message_block{
+    border-bottom: solid rgba(0, 0, 0, 0.1);
+    border-bottom-width: 1px;
+    margin-bottom: 9px;
+    padding-bottom: 9px;
+}
+
+.message_block button.user_message{
+    border-radius: 5px;
+    margin-left: 130px;
+    background-color: darkblue;
+    color: white;
+}
+
+.message_block button.bot_message{
+    border-radius: 5px;
+    background-color: lightgray;
+    color: black;
+}
+
+.message_block button{
+    margin-bottom: 0.5%;
+    display: flex;
+    border-radius: 25px;
+    border-color: rgba(58, 74, 161, 0.78);
+    background-color: lightgray;
+    color: darkblue;
+}
+
+.message_block p.chat_text{
+    font-size: 13px;
+    margin-left: 38px;
+}
+
+.input{
+    background-color: #efefef;
+    border-radius: 25px;
+}
+
+.input input.message{
+    border-color: darkblue;
+}
+
+.input form{
+    text-align: center;
+}
+
+.message_block form.message{
+    display: none;
+    padding-left: 10%;
+}
+
+.message_block button.send_information{
+    background-color: tomato;
+    color: white;
+    border-radius: 5px;
+    margin-left: 20%;
+    margin-top: 4px;
+}
+
+.message_send i.message{
+    padding: 1px;
+    font-size: 27px;
+}
+
+:root{
+    --margin-bottom: 5px;
+}
+
+.header_line_message p.text_do{
+    margin-bottom: var(--margin-bottom);
+}
+
+.header_line_message span{
+    margin-bottom: 2px;
+}
+
+.sub_element button.chat_button_one{
+    border-radius: 5px;
+    margin-left: 20px;
+    margin-bottom: var(--margin-bottom);
+    background-color: tomato;
+    color: white;
+    border-color: darkblue;
+}
+
+.message_container button.close_button{
+    margin-bottom: var(--margin-bottom);
+}
+
+.sub_element button.chat_button_two{
+    border-radius: 5px;
+    margin-left: 20px;
+    margin-bottom: var(--margin-bottom);
+    background-color: tomato;
+    color: white;
+    border-color: darkblue;
+}
+
+.input button.send_information{
+    background-color: tomato;
+    color: white;
+    margin-left: 30%;
+    border-color: darkblue;
+    margin-right: 30%;
+    border-radius: 5px;
+    margin-top: 5px;
+}
+
+button.chat_message{
+    margin-left: 5px;
+}
+
+.element .sub_element{
+    display: none;
+}
+
+.element i.dots{
+    margin-top: 5px;
+    margin-bottom: var(--margin-bottom);
+    margin-left: 5px;
+}
+
+.element button{
+    border-color: rgba(58, 74, 161, 0.78);
+    background-color: lightgray;
+    color: darkblue;
+}

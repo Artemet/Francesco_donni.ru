@@ -1,0 +1,13 @@
+.header_line{
+    margin-bottom: 15px;
+}
+
+.header_line h2.title{
+    position: absolute;
+    font-size: 20px;
+    padding-left: 38%;
+}
+
+.header_line img.title{
+    width: 100%;
+}

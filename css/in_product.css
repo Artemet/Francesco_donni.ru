@@ -1,0 +1,163 @@
+
+.product_container{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.consider_img{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.consider_img .photo_choice{
+    display: grid;
+    margin-right: 10px;
+    grid-template-columns: 1fr;
+    padding-left: 10px;
+}
+
+.photo_choice img.small_photo{
+    padding-top: 4px;
+    height: 120px;
+    padding-bottom: 4px;
+}
+
+button.basket span{
+    font-size: 17px;
+    padding-right: 30px;
+}
+
+button.basket i.right_arrow{
+    font-size: 17px;
+}
+
+.choice_quantity span.quantity_text{
+    display: flex;
+    color: grey;
+    padding-left: 24px;
+}
+
+.choice_quantity span.number_quantity{
+    padding-left: 9px;
+    padding-right: 9px;
+}
+
+.description span.size_title{
+    color: black;
+    margin-left: 0;
+}
+
+.table_row span.title{
+    color: black;
+}
+
+.table_row span.anser_title{
+    margin-right: var(--margin-right);
+    color: black;
+    margin-left: var(--margin-left);
+}
+
+.choice_characteristics_product h3{
+    padding-left: 9px;
+    padding-right: 9px;
+}
+
+.choice_characteristics_product h3:hover{
+    color: tomato;
+    transition: 0.5s;
+}
+
+.description .size_row{
+    margin-top: 6px;
+}
+
+.consider_characteristics .choice_characteristics_product{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+.line_properties span.title{
+    color: black;
+}
+
+.line_properties span.anser_title{
+    color: black;
+}
+
+:root{
+    --margin-left: 5px;
+    --color: black;
+    --margin-top: 5px;
+    --margin-bottom: 5px;
+    --background-color: lightgrey;
+    --margin-right: 5px;
+}
+
+.size_row button.size {
+    color: var(--color);
+    border-radius: 40%;
+    background-color: white;
+}
+
+.modal_img{
+    display: block;
+}
+
+.line{
+    height: 2px;
+    margin-right: auto;
+    margin-top: var(--margin-top);
+    margin-left: auto;
+    width: 1400px;
+    margin-bottom: var(--margin-bottom);
+    background-color: lightgrey;
+}
+
+.choice_quantity button{
+    color: var(--color);
+    border: 0;
+    background-color: var(--background-color);
+}
+
+.information_delivery b.information{
+    color: tomato;
+}
+
+.information_delivery span.information{
+    color: tomato;
+}
+
+button.basket i:hover{
+    color: white;
+}
+
+.consider_characteristics{
+    margin-left: 15px;
+}
+
+.consider_characteristics h2{
+    text-align: left;
+}
+
+.text_logo{
+    margin-bottom: 13px;
+    color: lightgray;
+    font-size: 200px;
+    background-color: #f7f7f7;
+    text-align: center;
+}
+
+.photo_reflection img#photo{
+    height: 650px;
+    padding-right: 30%;
+}
+
+.photo_choice i#arrow_up{
+    padding-top: 13px;
+    padding-left: 28px;
+}
+
+.photo_choice i#arrow_buttom{
+    padding-bottom: 13px;
+    padding-left: 28px;
+}

@@ -1,0 +1,70 @@
+.modal{
+    display: none;
+}
+
+.modal .bg{
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    background-color: rgba(20, 20, 20, 0.3);
+}
+
+.modal .content{
+    left: 50%;
+    transform: translate(-50%);
+    position: fixed;
+    z-index: 100;
+    padding: 30px 50px;
+    width: 700px;
+    border-radius: 8px;
+    background-color: white;
+}
+
+.modal i.dots{
+    margin-left: 3%;
+}
+
+.choice_do .choice_do_sub{
+    display: none;
+}
+
+.choice_do_sub button.discharge{
+    margin-left: 75%;
+}
+
+i#close{
+    padding-left: 100%;
+    padding-bottom: 10px;
+}
+
+.city_container li{
+    color: black;
+}
+
+.city_container li:hover{
+    color: tomato;
+    font-size: 17px;
+    transition: 1s;
+}
+
+.content label{
+    display: flex;
+}
+
+.content input{
+    border-color: tomato;
+}
+
+.content button{
+    background-color: tomato;
+    height: 31px;
+    border-radius: 5px;
+    color: white;
+}
+
+.modal .city_container{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}

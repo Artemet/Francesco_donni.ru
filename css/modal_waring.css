@@ -1,0 +1,29 @@
+.modal_waring{
+    display: none;
+}
+
+.modal_waring .bd{
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    background-color: rgba(20, 20, 20, 0.3);
+}
+
+.modal_waring .content{
+    left: 50%;
+    bottom: 0;
+    margin-bottom: 21%;
+    z-index: 100;
+    transform: translate(-50%);
+    position: fixed;
+    padding: 30px 50px;
+    width: 200px;
+    border-radius: 8px;
+    background-color: white;
+}
+
+.content i#close_waring{
+    padding-left: 90%;
+}

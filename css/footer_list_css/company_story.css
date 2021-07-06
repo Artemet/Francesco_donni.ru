@@ -1,0 +1,8 @@
+.story_list{
+    text-align: center;
+}
+
+.story_container .story_block{
+    text-align: left;
+    padding-left: 23%;
+}

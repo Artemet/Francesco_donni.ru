@@ -1,0 +1,186 @@
+/*h1{*/
+/*    color: red;*/
+/*    padding-left: 20px;*/
+/*    font-family: 'Montserrat', sans-serif;*/
+/*}*/
+
+/*.headerTime{*/
+/*    padding-top: 23px;*/
+/*    padding-left: 20px;*/
+/*}*/
+
+/*.headerIcons{*/
+/*    padding-left: 20px;*/
+/*    padding-top: 21px;*/
+/*}*/
+
+/*.francescoDonni {*/
+/*    border-bottom: solid rgba(0, 0, 0, 0.1);*/
+/*    border-bottom-width: 1px;*/
+/*    padding-top: 20px;*/
+/*    display: grid;*/
+/*    text-align: center;*/
+/*    grid-template-columns: 1fr 1fr 1fr 1fr;*/
+/*}*/
+
+/*.headerContacts{*/
+/*    padding-top: 25px;*/
+/*    font-family: 'Roboto', sans-serif;*/
+/*}*/
+
+/*a{*/
+/*    color: black;*/
+/*}*/
+
+/*a.back{*/
+/*    text-decoration: none;*/
+/*}*/
+
+/*.header_line img.header{*/
+/*    width: 100%;*/
+/*}*/
+
+/*.header_line h2.header{*/
+/*    font-family: 'Montserrat', sans-serif;*/
+/*    font-size: 24px;*/
+/*    padding-left: 46%;*/
+/*    padding-right: 46%;*/
+/*    position: absolute;*/
+/*}*/
+
+/*span.menu{*/
+/*    font-family: 'Noto Sans JP', sans-serif;*/
+/*    font-size: 23px;*/
+/*}*/
+
+/*a.name_menu{*/
+/*    font-family: 'Roboto', sans-serif;*/
+/*    color: black;*/
+/*    text-decoration: none;*/
+/*    padding-right: 200px;*/
+/*}*/
+
+/*a.menu{*/
+/*    color: black;*/
+/*    text-decoration: none;*/
+/*}*/
+
+/*span.menu{*/
+/*    font-family: 'Noto Sans JP', sans-serif;*/
+/*    font-size: 23px;*/
+/*}*/
+
+/*span.menu:hover{*/
+/*    color: #F24941;*/
+/*}*/
+
+/*a.name_menu:hover{*/
+/*    text-decoration: underline;*/
+/*    transition: 0.1s;*/
+/*}*/
+
+/*.navigation{*/
+/*    padding-left: 9%;*/
+/*    display: grid;*/
+/*    margin-bottom: 40px;*/
+/*    padding-top: 20px;*/
+/*    grid-template-columns: 1fr 1fr;*/
+/*}*/
+
+/*.menu{*/
+/*    display: grid;*/
+/*    grid-template-columns: 1fr 1fr;*/
+/*}*/
+
+/*.sub-menu:hover{*/
+/*    background-color: #F24941;*/
+/*    transition: 1s;*/
+/*}*/
+
+
+/*.navigation_link{*/
+/*    display: grid;*/
+/*    grid-template-columns: 1fr 1fr;*/
+/*}*/
+
+/*#cards_news .card_block .card_list{*/
+/*    display: grid;*/
+/*    grid-template-columns: 1fr 1fr;*/
+/*}*/
+
+/*!*#cards_news .card_block{*!*/
+/*!*    box-shadow: 1px 1px 10px #f7f7f7;*!*/
+/*!*}*!*/
+
+/*.card_block img.news{*/
+/*    height: 450px;*/
+/*    width: 450px;*/
+/*}*/
+
+/*span.news{*/
+/*    font-family: 'Roboto', sans-serif;*/
+/*    padding-left: 17%;*/
+/*}*/
+
+/*p{*/
+/*    font-family: 'Roboto', sans-serif;*/
+/*    padding-left: 17.9%;*/
+/*    text-align: left;*/
+/*}*/
+
+/*h3{*/
+/*    font-family: 'Roboto', sans-serif;*/
+/*    padding-left: 17.9%;*/
+/*    text-align: left;*/
+/*}*/
+
+/*#cards_news{*/
+/*    margin-top: 30px;*/
+/*    text-align: center;*/
+/*}*/
+
+/*.social_networks h3{*/
+/*    padding-left: 0;*/
+/*    font-size: 17px;*/
+/*}*/
+
+/*.social_networks a{*/
+/*    font-size: 16px;*/
+/*}*/
+
+/*.social_networks p{*/
+/*    font-size: 16px;*/
+/*}*/
+
+/*h2#hint{*/
+/*    text-align: center;*/
+/*}*/
+
+/*.follow{*/
+/*    text-align: center;*/
+/*}*/
+
+
+
+/*img.fran{*/
+/*    padding-top: 10px;*/
+/*    padding-left: 10px;*/
+/*}*/
+
+
+
+/*input{*/
+/*    width: 238px;*/
+/*    height: 15px;*/
+/*}*/
+
+
+
+/*button#follow{*/
+/*    font-family: Roboto, sans-serif;*/
+/*    background-color: red;*/
+/*    color: white;*/
+/*}*/
+
+
+

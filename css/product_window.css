@@ -1,0 +1,31 @@
+.product_window *{
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.product_window .bd{
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+}
+
+.product_window .content_window{
+    left: 50%;
+    bottom: 0;
+    margin-bottom: 21%;
+    display: none;
+    z-index: 100;
+    transform: translate(-50%);
+    position: fixed;
+    padding: 30px 50px;
+    width: 350px;
+    border-radius: 8px;
+    background-color: white;
+}
+
+.product_window button{
+    background-color: tomato;
+    color: white;
+}

@@ -1,0 +1,17 @@
+.delivery_container{
+    padding-left: 10%;
+}
+
+.delivery_container p.wish{
+    color: tomato;
+}
+
+.delivery_information .delivery_block{
+    display: grid;
+    grid-template-columns: 1fr;
+}
+
+.delivery_block span.information{
+    line-height: 31px;
+    color: tomato;
+}

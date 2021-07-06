@@ -1,0 +1,91 @@
+.img_line_shop{
+    background-color: #f7f7f7;
+}
+
+.img_line_shop img.shop{
+    height: 100px;
+    border-left-width: 10px;
+    width: 200px;
+}
+
+.shop_box{
+    text-align: center;
+}
+
+.photo img.photo{
+    width: 1017px;
+    margin-bottom: 20px;
+}
+
+.shop_container{
+    margin-top: 10px;
+    padding-left: 7%;
+    width: 1200px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.shop_container .city{
+    height: 21px;
+}
+
+.city_shop_list .address-block{
+    display: grid;
+    grid-template-columns: 1fr;
+}
+
+.choice_city_shop .city_shop_list{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+#block_metro{
+    display: none;
+    position: fixed;
+    top: 0;
+    right: 0;
+    z-index: 100;
+    left: 0;
+    padding-top: 20px;
+    bottom: 0;
+    background-color: rgba(20, 20, 20, 0.3);
+}
+
+.shop_container .city{
+    display: grid;
+    line-height: 27px;
+    grid-template-columns: 1fr;
+}
+.shop_container span.city:hover{
+    color: tomato;
+    text-decoration: underline;
+}
+
+#block_metro button.close{
+    background-color: tomato;
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 10px;
+    color: white;
+}
+
+.shop_box .shop_card_choice{
+    margin-top: 10px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.shop_card button.shop{
+    margin-left: 10%;
+    opacity: 80%;
+    margin-right: 10%;
+    margin-top: 1%;
+    background-color: tomato;
+    position: absolute;
+    color: white;
+}
+
+.shop_card button.shop:hover{
+    opacity: 100%;
+    transition: 0.5s;
+}

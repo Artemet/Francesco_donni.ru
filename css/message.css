@@ -1,0 +1,17 @@
+.message_line {
+    background-color: rgba(58, 74, 161, 0.78);
+    width: 260px;
+    -webkit-transform: rotate(-90deg);
+    margin-top: 12.8%;
+    border-radius: 5px;
+    z-index: 100;
+    position: fixed;
+    padding-left: 10px;
+    right: -120px;
+    opacity: 98%;
+}
+
+.message_line p{
+    display: inline;
+    color: white;
+}
